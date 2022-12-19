@@ -1,23 +1,11 @@
-### Hi there 👋
-
-<!--
-**SimranS22/SimranS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 # 💫 About Me:
-I am currently working on data science and web development projects. <br>I am looking to collaborate on projects. <br>I am currently learning data science and web development.<br><br>Shoot me an email or add me on linkedin.<br>
+I'm Simran Sharma, an undergrad pursuing my B.Tech in Computer Science and Engineering(CSE) at Sur Institute of Technology.
+
+<br>My main field of interest is Web-Development and Design but I like exploring and experimenting in other domains such as Data Science, Data Analytics, Automated Testing and many more. I try to actively participate in open-source events, hackathons and webinars to broaden my horizons and contribute back to tech community.<br>
+
+Actively looking for internships and willing to connect and collaborate on projects. 
 
 
 ## 🌐 Socials:
