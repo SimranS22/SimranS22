@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hello everyone, my name is Simran Sharma. 
 
-I am an undergrad pursuing my B.Tech in Computer Science and Engineering(CSE) at Sur Institute of Technology, Kolkata.
+I am an undergrad pursuing my B.Tech in Computer Science and Engineering(CSE) at Sur Institute of Technology.
 
 I am an avid learner and I implement my learnings by creating projects and educating the technical community. My main fields of interests are Web-Development, Design and Data Analytics. I am also open to exploring and experimenting with technologies in other domains  Automated Testing, Software Engineering and many more. I try to actively participate in open-source events, hackathons and webinars to broaden my horizons and contribute back to tech community.
 
