@@ -1,11 +1,14 @@
 
 
 # 💫 About Me:
-I'm Simran Sharma, an undergrad pursuing my B.Tech in Computer Science and Engineering(CSE) at Sur Institute of Technology.
+Hello everyone, my name is Simran Sharma. 
 
-My main field of interest is Web-Development and Design but I like exploring and experimenting in other domains such as Data Science, Data Analytics, Automated Testing and many more. I try to actively participate in open-source events, hackathons and webinars to broaden my horizons and contribute back to tech community.<br>
+I am an undergrad pursuing my B.Tech in Computer Science and Engineering(CSE) at Sur Institute of Technology, Kolkata.
+
+I am an avid learner and I implement my learnings by creating projects and educating the technical community. My main fields of interests are Web-Development, Design and Data Analytics. I am also open to exploring and experimenting with technologies in other domains  Automated Testing, Software Engineering and many more. I try to actively participate in open-source events, hackathons and webinars to broaden my horizons and contribute back to tech community.
 
 Actively looking for internships and willing to connect and collaborate on projects. 
+
 
 
 ## 🌐 Socials:
